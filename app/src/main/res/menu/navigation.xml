@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:enabled="true"
+        android:iconTint="@color/colorAccent"
+        android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+        android:title="@string/fragment_list"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/navigation_gifts"
+        android:enabled="true"
+        android:iconTint="@color/colorAccent"
+        android:icon="@drawable/ic_map_black_24dp"
+        android:title="@string/fragment_map"
+        app:showAsAction="ifRoom" />
+
+</menu>

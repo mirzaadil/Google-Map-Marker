@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimary">#57ffa0</color>
+    <color name="colorPrimaryDark">#00cb71</color>
+    <color name="colorAccent">#00cb71</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+    <color name="colorPrimaryRipple">#00cb71</color>
+    <color name="battleship_grey">#828284</color>
+
+    <color name="primaryColor">#57ffa0</color>
+    <color name="primaryLightColor">#93ffd2</color>
+    <color name="primaryDarkColor">#00cb71</color>
+    <color name="primaryTextColor">#000000</color>
+
+
+    <color name="chat_overlay">#26010D3B</color>
+</resources>

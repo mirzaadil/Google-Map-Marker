@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Technical Assessment</string>
+
+    <!--Google Api Key-->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyADShK8DHbloo6I9Exao3cIsT32CACuBOk
+</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_list">List</string>
+    <string name="fragment_map">MAP</string>
+
+    <string name="address">Address:</string>
+    <string name="exterior">Exterior:</string>
+    <string name="engine">Engine:</string>
+    <string name="fuel">Fuel:</string>
+    <string name="interior">Interior:</string>
+    <string name="name">Name:</string>
+    <string name="vin">Vin:</string>
+
+</resources>
